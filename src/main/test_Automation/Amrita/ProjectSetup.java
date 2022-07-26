@@ -20,7 +20,7 @@ public class ProjectSetup {
     public static void main(String[] args) {
         ProjectSetup p =new ProjectSetup();
         driver=p.openBrowser();
-        driver.get("http://the-internet.herokuapp.com/");
+       // driver.get("http://the-internet.herokuapp.com/");
         driver.close();
 
 
