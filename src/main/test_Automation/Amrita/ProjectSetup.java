@@ -17,7 +17,7 @@ public class ProjectSetup {
 
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         ProjectSetup p =new ProjectSetup();
         driver=p.openBrowser();
        // driver.get("http://the-internet.herokuapp.com/");
@@ -26,5 +26,5 @@ public class ProjectSetup {
 
 
 
-    }
+    }*/
 }
